@@ -1,7 +1,7 @@
 # Table of contents
 
-* [강의계획서](README.md)
-* [Page 1](page-1.md)
+* [헬로우 뽀시래기](README.md)
+* [😺 춘배](undefined.md)
 * [Page 2](page-2.md)
 
 ## Group 1
