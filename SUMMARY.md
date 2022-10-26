@@ -1,3 +1,3 @@
 # Table of contents
 
-* [README](README.md)
+* [강의계획서](README.md)
